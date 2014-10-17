@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ljl:home|Door43 (ljl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ljl|d43-ljl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ljl/archive/master.zip|d43-ljl.zip]]
+
+**Recent Changes**
+{{changes>ns = ljl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ljl|Ethnologue data]]
+
